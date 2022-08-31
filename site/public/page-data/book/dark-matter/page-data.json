@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-book-js",
+    "path": "/book/dark-matter",
+    "result": {"data":{"book":{"name":"Dark Matter","author":{"name":"Blake Crouch","slug":"blake-crouch"},"series":null,"seriesOrder":null,"buyLink":"https://www.powells.com/searchresults?keyword=9781101904244","cover":{"childImageSharp":{"gatsbyImageData":{"layout":"constrained","backgroundColor":"#080808","images":{"fallback":{"src":"/static/10e0c38f29fb91bed65e950b022e5054/8c92d/8397287-L.gif","srcSet":"/static/10e0c38f29fb91bed65e950b022e5054/fb8ca/8397287-L.gif undefinedw,\n/static/10e0c38f29fb91bed65e950b022e5054/8c92d/8397287-L.gif 1w,\n/static/10e0c38f29fb91bed65e950b022e5054/8c92d/8397287-L.gif 1w","sizes":"(min-width: 1px) 1px, 100vw"},"sources":[{"srcSet":"/static/10e0c38f29fb91bed65e950b022e5054/a502c/8397287-L.webp undefinedw,\n/static/10e0c38f29fb91bed65e950b022e5054/48bba/8397287-L.webp 1w,\n/static/10e0c38f29fb91bed65e950b022e5054/48bba/8397287-L.webp 1w","type":"image/webp","sizes":"(min-width: 1px) 1px, 100vw"}]},"width":150,"height":150}}}}},"pageContext":{"id":"587e2bfc-78db-587e-af9e-65dd10335677"}},
+    "staticQueryHashes": ["1944228531"]}

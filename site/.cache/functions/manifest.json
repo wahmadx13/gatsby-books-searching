@@ -1,0 +1,26 @@
+[
+    {
+        "functionRoute": "check-auth",
+        "pluginName": "default-site-plugin",
+        "originalAbsoluteFilePath": "C:/Users/Waseem/Desktop/gatsby/frontend-masters-intermediate-gatsby-project/site/src/api/check-auth.js",
+        "originalRelativeFilePath": "check-auth.js",
+        "relativeCompiledFilePath": "check-auth.js",
+        "absoluteCompiledFilePath": "C:\\Users\\Waseem\\Desktop\\gatsby\\frontend-masters-intermediate-gatsby-project\\site\\.cache\\functions\\check-auth.js"
+    },
+    {
+        "functionRoute": "login",
+        "pluginName": "default-site-plugin",
+        "originalAbsoluteFilePath": "C:/Users/Waseem/Desktop/gatsby/frontend-masters-intermediate-gatsby-project/site/src/api/login.js",
+        "originalRelativeFilePath": "login.js",
+        "relativeCompiledFilePath": "login.js",
+        "absoluteCompiledFilePath": "C:\\Users\\Waseem\\Desktop\\gatsby\\frontend-masters-intermediate-gatsby-project\\site\\.cache\\functions\\login.js"
+    },
+    {
+        "functionRoute": "logout",
+        "pluginName": "default-site-plugin",
+        "originalAbsoluteFilePath": "C:/Users/Waseem/Desktop/gatsby/frontend-masters-intermediate-gatsby-project/site/src/api/logout.js",
+        "originalRelativeFilePath": "logout.js",
+        "relativeCompiledFilePath": "logout.js",
+        "absoluteCompiledFilePath": "C:\\Users\\Waseem\\Desktop\\gatsby\\frontend-masters-intermediate-gatsby-project\\site\\.cache\\functions\\logout.js"
+    }
+]

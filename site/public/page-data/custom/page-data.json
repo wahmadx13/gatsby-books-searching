@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-custom-js",
+    "path": "/custom",
+    "result": {"pageContext":{"title":"A Custom Page!","meta":{"description":"A custom page with context."}}},
+    "staticQueryHashes": []}

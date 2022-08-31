@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-author-slug-js",
+    "path": "/n-k-jemisin/",
+    "result": {"data":{"author":{"name":"N. K. Jemisin","books":[{"id":"d943711b-6b16-584c-89d8-ff284e7ad227","name":"The Fifth Season","series":"The Broken Earth Trilogy","seriesOrder":1},{"id":"d5d8a0df-1174-5df5-b44b-1aefa8e2c39d","name":"The Obelisk Gate","series":"The Broken Earth Trilogy","seriesOrder":2},{"id":"9648fe1f-4a24-5154-ba80-b647ae538aba","name":"The Stone Sky","series":"The Broken Earth Trilogy","seriesOrder":3}]}},"pageContext":{"id":"4880c6e4-5427-5f05-b0a2-2dca54e03c74","slug":"n-k-jemisin","__params":{"slug":"n-k-jemisin"}}},
+    "staticQueryHashes": ["1944228531"]}

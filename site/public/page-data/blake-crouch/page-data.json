@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-author-slug-js",
+    "path": "/blake-crouch/",
+    "result": {"data":{"author":{"name":"Blake Crouch","books":[{"id":"587e2bfc-78db-587e-af9e-65dd10335677","name":"Dark Matter","series":null,"seriesOrder":null}]}},"pageContext":{"id":"d2cb93f7-00e7-5c2e-8bed-315f3bde7591","slug":"blake-crouch","__params":{"slug":"blake-crouch"}}},
+    "staticQueryHashes": ["1944228531"]}

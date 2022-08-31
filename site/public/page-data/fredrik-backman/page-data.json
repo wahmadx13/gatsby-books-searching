@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-author-slug-js",
+    "path": "/fredrik-backman/",
+    "result": {"data":{"author":{"name":"Fredrik Backman","books":[{"id":"fe95cbc8-e7f3-5ff0-8324-a5890deec027","name":"A Man Called Ove","series":null,"seriesOrder":null}]}},"pageContext":{"id":"b019011e-a068-5de0-854a-821b38caa81e","slug":"fredrik-backman","__params":{"slug":"fredrik-backman"}}},
+    "staticQueryHashes": ["1944228531"]}

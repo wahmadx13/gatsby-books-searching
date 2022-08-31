@@ -1,0 +1,22 @@
+[
+    {
+        "path": "/account/dashboard/",
+        "matchPath": "/account/dashboard/"
+    },
+    {
+        "path": "/account/env-vars/",
+        "matchPath": "/account/env-vars/"
+    },
+    {
+        "path": "/account/login/",
+        "matchPath": "/account/login/"
+    },
+    {
+        "path": "/account/[...]/",
+        "matchPath": "/account/*"
+    },
+    {
+        "path": "/search/[...]/",
+        "matchPath": "/search/*"
+    }
+]

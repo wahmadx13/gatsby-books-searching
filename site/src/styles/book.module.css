@@ -1,0 +1,9 @@
+.listing {
+  display: flex;
+  gap: 2rm;
+  margin-bottom: 2rem;
+}
+
+.heading {
+  margin: 0;
+}

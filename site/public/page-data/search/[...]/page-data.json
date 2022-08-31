@@ -1,0 +1,6 @@
+{
+    "componentChunkName": "component---src-pages-search-js",
+    "path": "/search/[...]/",
+    "result": {"pageContext":{"matchPath":"/search/*"}},
+    "staticQueryHashes": ["1944228531"],
+    "matchPath": "/search/*"}

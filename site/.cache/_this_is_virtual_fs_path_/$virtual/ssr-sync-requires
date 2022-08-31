@@ -1,0 +1,11 @@
+
+  // prefer default export if available
+  const preferDefault = m => (m && m.default) || m
+  
+
+exports.ssrComponents = {
+  "component---cache-dev-404-page-js": preferDefault(require("C:\\Users\\Waseem\\Desktop\\gatsby\\frontend-masters-intermediate-gatsby-project\\site\\.cache\\dev-404-page.js")),
+  "component---src-pages-account-login-js": preferDefault(require("C:\\Users\\Waseem\\Desktop\\gatsby\\frontend-masters-intermediate-gatsby-project\\site\\src\\pages\\account\\login.js")),
+  "component---src-pages-index-js": preferDefault(require("C:\\Users\\Waseem\\Desktop\\gatsby\\frontend-masters-intermediate-gatsby-project\\site\\src\\pages\\index.js"))
+  }
+
